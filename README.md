@@ -1,2 +1,1 @@
-# RicksonMonteiro
-Estudante de Engenharia de controle e Automação
+##Rede perceptro em python
